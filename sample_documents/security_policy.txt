@@ -1,0 +1,10 @@
+TrustVault Security Policy
+
+Privileged access reviews are required every quarter for systems that store customer data, financial records, or security logs. Each review must include the reviewer name, timestamp, access list, exceptions, remediation status, and approval evidence.
+
+Documents containing confidential customer data must be stored in approved repositories only. Users must not paste confidential documents into public chatbots or external tools unless a legal and security review has approved the workflow.
+
+Incident response evidence must be retained for at least one year. The incident owner is responsible for documenting the timeline, root cause, containment actions, and lessons learned.
+
+The viewer role can ask questions against approved documents. The admin role can upload documents, delete documents, and review audit logs.
+

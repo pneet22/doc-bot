@@ -1,0 +1,8 @@
+TrustVault Vendor Controls
+
+Critical vendors must complete a security review before contract signature. The review includes data classification, encryption controls, breach notification commitments, audit rights, and subcontractor disclosure.
+
+Vendors with access to production systems must support multi-factor authentication and named user accounts. Shared accounts are prohibited for production access.
+
+Vendor risk ratings are reviewed annually. High-risk vendors require executive approval and a remediation plan for open findings.
+
