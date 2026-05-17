@@ -143,13 +143,6 @@ Add screenshots here after running the app:
 - Audit logs
 - Document details
 
-## Resume-Ready Description
-
-- Built TrustVault AI, a secure full-stack RAG document chatbot using FastAPI, React, ChromaDB, SQLite, and sentence-transformers.
-- Implemented document ingestion for PDF, TXT, and DOCX files with chunk metadata, vector indexing, top-k retrieval, similarity thresholds, and citation-backed answers.
-- Added role-based access control, local authentication, upload/delete restrictions, audit logging, and no-hallucination fallback behavior.
-- Designed a clean React dashboard with document management, document-scoped chat, source citations, and admin audit visibility.
-
 ## Future Improvements
 
 - Replace local auth with OAuth/OIDC and refresh tokens.
